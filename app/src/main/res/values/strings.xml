@@ -9,4 +9,8 @@
     <string name="shotgun">Shotgun</string>
     <string name="pistol">Pistol</string>
     <string name="legends">Legends</string>
+    <string name="damage" translatable="false">DPS</string>
+    <string name="radar">Radar</string>
+    <string name="tank" translatable="false">Tank</string>
+    <string name="support">Support</string>
 </resources>

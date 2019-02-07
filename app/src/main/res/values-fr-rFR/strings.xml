@@ -9,4 +9,6 @@
     <string name="shotgun">Fusil à pompe</string>
     <string name="pistol">Pistolet</string>
     <string name="legends">Légendes</string>
+    <string name="radar">Radar</string>
+    <string name="support">Soutien</string>
 </resources>
