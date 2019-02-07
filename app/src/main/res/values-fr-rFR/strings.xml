@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apex Legends Guide</string>
+    <string name="weapons">Les armes</string>
+    <string name="AR">Fusil d\'assault</string>
+    <string name="smg">Mitraillette</string>
+    <string name="heavy_ar">Mitrailleuse</string>
+    <string name="sniper">Fusil de précision</string>
+    <string name="shotgun">Fusil à pompe</string>
+    <string name="pistol">Pistolet</string>
+    <string name="legends">Légendes</string>
+</resources>

@@ -32,27 +32,53 @@ class HomeFragment : Fragment() {
             layoutManager = LinearLayoutManager(activity, LinearLayoutManager.HORIZONTAL, false)
             adapter = GameItemAdapter(
                 listOf(
-                    GameItem(R.drawable.flatline, "", "V-47 Flatline", "Fusil d'assault"),
-                    GameItem(R.drawable.hemlok, "", "Hemlok", "Fusil d'assault"),
-                    GameItem(R.drawable.r301, "", "R301", "Fusil d'assault"),
-                    GameItem(R.drawable.alternator, "", "Alternator", "Mitraillette"),
-                    GameItem(R.drawable.r99, "", "R-99", "Mitraillette"),
-                    GameItem(R.drawable.prowler, "", "Pow Prowler Burst", "Mitraillette"),
-                    GameItem(R.drawable.devotion, "", "Devotion", "Mitrailleuse"),
-                    GameItem(R.drawable.spitfire, "", "M600 Spitfire", "Mitrailleuse"),
-                    GameItem(R.drawable.g7, "", "G7 Scout", "Fusil de précision"),
-                    GameItem(R.drawable.longbow, "", "Longbow-DMR", "Fusil de précision"),
-                    GameItem(R.drawable.triple, "", "Fusil Triple", "Fusil de précision"),
-                    GameItem(R.drawable.triple, "Légendaire", "Kraber", "Fusil de précision"),
-                    GameItem(R.drawable.eva8, "", "Eva8 Auto", "Fusil à pompe"),
-                    GameItem(R.drawable.peacekeeper, "", "Peacekeeper", "Fusil à pompe"),
-                    GameItem(R.drawable.mastiff, "Légendaire", "Mastiff", "Fusil à pompe"),
-                    GameItem(R.drawable.mozanbique, "", "Mozambique", "Fusil à pompe"),
-                    GameItem(R.drawable.p2020, "", "P2020", "Pistolet"),
-                    GameItem(R.drawable.re45, "", "RE-45", "Pistolet"),
-                    GameItem(R.drawable.wingman, "", "Wingman", "Pistolet")
+                    GameItem(R.drawable.flatline, "", "V-47 Flatline", context.getString(R.string.AR)),
+                    GameItem(R.drawable.hemlok, "", "Hemlok", context.getString(R.string.AR)),
+                    GameItem(R.drawable.r301, "", "R301", context.getString(R.string.AR)),
+                    GameItem(R.drawable.alternator, "", "Alternator", context.getString(R.string.smg)),
+                    GameItem(R.drawable.r99, "", "R-99", context.getString(R.string.smg)),
+                    GameItem(R.drawable.prowler, "", "Pow Prowler Burst", context.getString(R.string.smg)),
+                    GameItem(R.drawable.devotion, "", "Devotion", context.getString(R.string.heavy_ar)),
+                    GameItem(R.drawable.spitfire, "", "M600 Spitfire", context.getString(R.string.heavy_ar)),
+                    GameItem(R.drawable.g7, "", "G7 Scout", context.getString(R.string.sniper)),
+                    GameItem(R.drawable.longbow, "", "Longbow-DMR", context.getString(R.string.sniper)),
+                    GameItem(R.drawable.triple, "", "Fusil Triple", context.getString(R.string.sniper)),
+                    GameItem(R.drawable.triple, "Légendaire", "Kraber", context.getString(R.string.sniper)),
+                    GameItem(R.drawable.eva8, "", "Eva8 Auto", context.getString(R.string.shotgun)),
+                    GameItem(R.drawable.peacekeeper, "", "Peacekeeper", context.getString(R.string.shotgun)),
+                    GameItem(R.drawable.mastiff, "Légendaire", "Mastiff", context.getString(R.string.shotgun)),
+                    GameItem(R.drawable.mozanbique, "", "Mozambique", context.getString(R.string.shotgun)),
+                    GameItem(R.drawable.p2020, "", "P2020", context.getString(R.string.pistol)),
+                    GameItem(R.drawable.re45, "", "RE-45", context.getString(R.string.pistol)),
+                    GameItem(R.drawable.wingman, "", "Wingman", context.getString(R.string.pistol))
                 )
-
+            )
+        }
+        binding.legendsAdapter.apply {
+            setHasFixedSize(true)
+            layoutManager = LinearLayoutManager(activity, LinearLayoutManager.HORIZONTAL, false)
+            adapter = GameItemAdapter(
+                listOf(
+                    GameItem(R.drawable.flatline, "", "V-47 Flatline", context.getString(R.string.AR)),
+                    GameItem(R.drawable.hemlok, "", "Hemlok", context.getString(R.string.AR)),
+                    GameItem(R.drawable.r301, "", "R301", context.getString(R.string.AR)),
+                    GameItem(R.drawable.alternator, "", "Alternator", context.getString(R.string.smg)),
+                    GameItem(R.drawable.r99, "", "R-99", context.getString(R.string.smg)),
+                    GameItem(R.drawable.prowler, "", "Pow Prowler Burst", context.getString(R.string.smg)),
+                    GameItem(R.drawable.devotion, "", "Devotion", context.getString(R.string.heavy_ar)),
+                    GameItem(R.drawable.spitfire, "", "M600 Spitfire", context.getString(R.string.heavy_ar)),
+                    GameItem(R.drawable.g7, "", "G7 Scout", context.getString(R.string.sniper)),
+                    GameItem(R.drawable.longbow, "", "Longbow-DMR", context.getString(R.string.sniper)),
+                    GameItem(R.drawable.triple, "", "Fusil Triple", context.getString(R.string.sniper)),
+                    GameItem(R.drawable.triple, "Légendaire", "Kraber", context.getString(R.string.sniper)),
+                    GameItem(R.drawable.eva8, "", "Eva8 Auto", context.getString(R.string.shotgun)),
+                    GameItem(R.drawable.peacekeeper, "", "Peacekeeper", context.getString(R.string.shotgun)),
+                    GameItem(R.drawable.mastiff, "Légendaire", "Mastiff", context.getString(R.string.shotgun)),
+                    GameItem(R.drawable.mozanbique, "", "Mozambique", context.getString(R.string.shotgun)),
+                    GameItem(R.drawable.p2020, "", "P2020", context.getString(R.string.pistol)),
+                    GameItem(R.drawable.re45, "", "RE-45", context.getString(R.string.pistol)),
+                    GameItem(R.drawable.wingman, "", "Wingman", context.getString(R.string.pistol))
+                )
             )
         }
 

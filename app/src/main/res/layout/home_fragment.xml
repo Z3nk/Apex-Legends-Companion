@@ -8,16 +8,43 @@
             android:layout_height="match_parent">
 
         <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:id="@+id/toto"/>
+                  android:id="@+id/tv_weapons_list"
+                  android:text="@string/weapons"
+                  app:layout_constraintTop_toTopOf="parent"
+                  app:layout_constraintLeft_toLeftOf="parent"
+                  android:textSize="18sp"
+                  android:textStyle="bold"
+        />
+
         <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/weapons_adapter"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_weapons_list"
                 app:layout_constraintRight_toRightOf="parent"
                 app:layout_constraintLeft_toLeftOf="parent"
                 tools:orientation="horizontal"
                 tools:listitem="@layout/row_game_item"
-                tools:spanCount="3"></androidx.recyclerview.widget.RecyclerView>
+                tools:spanCount="3"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:id="@+id/tv_legends_list"
+                  android:text="@string/legends"
+                  app:layout_constraintTop_toBottomOf="@id/weapons_adapter"
+                  app:layout_constraintLeft_toLeftOf="parent"
+                  android:textSize="18sp"
+                  android:textStyle="bold"
+        />
+
+        <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/legends_adapter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toBottomOf="@id/tv_legends_list"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                tools:orientation="horizontal"
+                tools:listitem="@layout/row_game_item"
+                tools:spanCount="3"/>
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Apex Legends Guide</string>
-    <string name="made_by_fan">Made by fan for fan</string>
+    <string name="made_by_fan" translatable="false">Made by gamers for gamers</string>
+    <string name="weapons">Weapons</string>
+    <string name="AR">Assault rifle</string>
+    <string name="smg">SMG</string>
+    <string name="heavy_ar">Machine gun</string>
+    <string name="sniper">Precision rifle</string>
+    <string name="shotgun">Shotgun</string>
+    <string name="pistol">Pistol</string>
+    <string name="legends">Legends</string>
 </resources>
