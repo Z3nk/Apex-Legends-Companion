@@ -70,6 +70,15 @@ class HomeFragment : Fragment() {
                 )
             )
         }
+        binding.mapAdapter.apply {
+            setHasFixedSize(true)
+            layoutManager = LinearLayoutManager(activity, LinearLayoutManager.HORIZONTAL, false)
+            adapter = GameItemAdapter(
+                listOf(
+                    GameItem(R.drawable.carte, "", "Respawn : Entertainement", "")
+                )
+            )
+        }
 
     }
 }
