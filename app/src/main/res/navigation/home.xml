@@ -4,5 +4,12 @@
             android:id="@+id/home" app:startDestination="@id/homeFragment">
 
     <fragment android:id="@+id/homeFragment" android:name="fr.apexlegends.guide.home.home.HomeFragment"
-              android:label="HomeFragment"/>
+              android:label="HomeFragment">
+        <action android:id="@+id/action_homeFragment_to_detailsFragment" app:destination="@id/detailsFragment"/>
+    </fragment>
+    <fragment android:id="@+id/detailsFragment" android:name="fr.apexlegends.guide.home.details.DetailsFragment"
+              android:label="DetailsFragment">
+        <argument android:name="id" app:argType="integer" android:defaultValue="-1"/>
+        <argument android:name="type" app:argType="string"/>
+    </fragment>
 </navigation>

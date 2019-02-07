@@ -6,11 +6,12 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.navigation.Navigation
 import androidx.recyclerview.widget.LinearLayoutManager
 import fr.apexlegends.guide.R
 import fr.apexlegends.guide.databinding.HomeFragmentBinding
 import fr.apexlegends.guide.home.home.adapter.GameItemAdapter
-import fr.apexlegends.guide.home.model.GameItem
+import fr.apexlegends.guide.model.GameItem
 
 class HomeFragment : Fragment() {
     companion object {
@@ -52,7 +53,9 @@ class HomeFragment : Fragment() {
                     GameItem(R.drawable.re45, "", "RE-45", context.getString(R.string.pistol)),
                     GameItem(R.drawable.wingman, "", "Wingman", context.getString(R.string.pistol))
                 )
-            )
+            ) {
+
+            }
         }
         binding.legendsAdapter.apply {
             setHasFixedSize(true)
@@ -68,7 +71,20 @@ class HomeFragment : Fragment() {
                     GameItem(R.drawable.pathfinder, "", "Pathfinder", context.getString(R.string.support)),
                     GameItem(R.drawable.wraith, "", "Wraith", context.getString(R.string.damage))
                 )
-            )
+            ) {
+                HomeFragmentDirections.actionHomeFragmentToDetailsFragment(
+                    R.id.action_homeFragment_to_detailsFragment, context.getString(
+                        R.string.type_legends
+                    )
+                )
+                Navigation.findNavController(this).navigate(
+                    HomeFragmentDirections.actionHomeFragmentToDetailsFragment(
+                        R.id.action_homeFragment_to_detailsFragment, context.getString(
+                            R.string.type_legends
+                        )
+                    )
+                )
+            }
         }
         binding.mapAdapter.apply {
             setHasFixedSize(true)
@@ -77,7 +93,9 @@ class HomeFragment : Fragment() {
                 listOf(
                     GameItem(R.drawable.carte, "", "Respawn : Entertainement", "")
                 )
-            )
+            ) {
+
+            }
         }
 
     }

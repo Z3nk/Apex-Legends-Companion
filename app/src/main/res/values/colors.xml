@@ -4,6 +4,7 @@
     <color name="colorPrimaryDark">#AB3237</color>
     <color name="colorAccent">#D81B60</color>
     <color name="bg_dark">#27282f</color>
-    <color name="alpha">#11000000</color>
-    <color name="alpha1">#ff000000</color>
+    <color name="alpha1">#11000000</color>
+    <color name="alpha9">#91000000</color>
+    <color name="alphaF">#ff000000</color>
 </resources>

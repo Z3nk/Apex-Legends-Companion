@@ -14,4 +14,5 @@
     <string name="tank" translatable="false">Tank</string>
     <string name="support">Support</string>
     <string name="les_cartes">Maps</string>
+    <string name="type_legends" translatable="false">TYPE_LEGENDS</string>
 </resources>

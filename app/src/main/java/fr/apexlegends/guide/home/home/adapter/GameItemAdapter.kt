@@ -7,17 +7,20 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import fr.apexlegends.guide.R
-import fr.apexlegends.guide.home.model.GameItem
+import fr.apexlegends.guide.model.GameItem
 
 
-class GameItemAdapter(private val data: List<GameItem>) :
-        RecyclerView.Adapter<GameItemAdapter.VH>() {
+class GameItemAdapter(
+    private val data: List<GameItem>,
+    val onClick: (gameItem: GameItem) -> Unit
+) : RecyclerView.Adapter<GameItemAdapter.VH>() {
 
     class VH(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val title: TextView? = itemView.findViewById(R.id.tv_title)
         val subtitle: TextView? = itemView.findViewById(R.id.tv_subtitle)
         val name: TextView? = itemView.findViewById(R.id.tv_name)
         val picture: ImageView? = itemView.findViewById(R.id.iv_game_item)
+        val container: View? = itemView.findViewById(R.id.container)
     }
 
     override fun onBindViewHolder(holder: VH, position: Int) {
@@ -25,6 +28,9 @@ class GameItemAdapter(private val data: List<GameItem>) :
         holder.subtitle?.text = data[position].subTitle
         holder.name?.text = data[position].name
         holder.picture?.setImageResource(data[position].picture)
+        holder.container?.setOnClickListener {
+            onClick(data[position])
+        }
     }
 
     override fun getItemCount(): Int {
