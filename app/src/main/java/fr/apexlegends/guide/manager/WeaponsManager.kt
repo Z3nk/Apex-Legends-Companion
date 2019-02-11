@@ -14,7 +14,7 @@ class WeaponsManager(context: Context) : IManager {
             context.getString(R.string.AR),
             context.getString(R.string.description_V47_flatline),
             context.getString(R.string.stats_V47_flatline),
-            ""
+            context.getString(R.string.procons_V47_flatline)
         ),
         GameItem(
             R.drawable.hemlok,
@@ -24,7 +24,7 @@ class WeaponsManager(context: Context) : IManager {
             context.getString(R.string.AR),
             context.getString(R.string.description_hemlok),
             context.getString(R.string.stats_hemlok),
-            ""
+            context.getString(R.string.procons_hemlok)
         ),
         GameItem(
             R.drawable.r301,
@@ -34,7 +34,7 @@ class WeaponsManager(context: Context) : IManager {
             context.getString(R.string.AR),
             context.getString(R.string.description_R301_Carbine),
             context.getString(R.string.stats_R301_Carbine),
-            ""
+            context.getString(R.string.procons_R301_Carbine)
         ),
         GameItem(
             R.drawable.alternator,

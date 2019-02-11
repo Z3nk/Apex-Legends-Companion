@@ -25,7 +25,6 @@ class DetailsFragment : Fragment() {
 
     lateinit var binding: DetailsFragmentBinding
     lateinit var manager: IManager
-    lateinit var gameItem: GameItem
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         Log.d(TAG, "onCreateView")
@@ -66,17 +65,31 @@ class DetailsFragment : Fragment() {
         val type = arguments?.getString("type")
         if (type == getString(R.string.type_weapons)) {
             manager = WeaponsManager(context!!)
+            val gameItem = manager.getItem(id)
+            inflateInformationsTabs(gameItem)
+            inflateWeaponsStatsTab(gameItem)
         } else if (type == getString(R.string.type_legends)) {
             manager = LegendsManager(context!!)
+            val gameItem = manager.getItem(id)
+            inflateInformationsTabs(gameItem)
+            inflateLegendsStatsTab(gameItem)
         } else {
             Log.e(TAG, "This type is not handled yet")
         }
 
-        gameItem = manager.getItem(id)
+    }
 
+    private fun inflateLegendsStatsTab(gameItem: GameItem) {
+    }
+
+    private fun inflateWeaponsStatsTab(gameItem: GameItem) {
+        binding.tvStats.text = Html.fromHtml(gameItem.stats, null, UlTagHandler())
+        binding.tvProcons.text = Html.fromHtml(gameItem.procons, null, UlTagHandler())
+    }
+
+    private fun inflateInformationsTabs(gameItem: GameItem) {
         binding.picture.setImageResource(gameItem.picture)
         binding.tvInformations.text = Html.fromHtml(gameItem.description, null, UlTagHandler())
-        binding.tvStats.text = Html.fromHtml(gameItem.stats, null, UlTagHandler())
     }
 
     inner class UlTagHandler : Html.TagHandler {

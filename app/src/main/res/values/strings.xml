@@ -25,6 +25,12 @@
 <li><b>Base Rate of Fire:</b> 600 RPM</li>
 <li><b>Base Magazine Capacity:</b> 20</li>
 <li><b>Ammo Type:</b> <a href="/Heavy_Rounds" title="Heavy Rounds">Heavy Rounds</a></li></ul>]]></string>
+    <string name="procons_V47_flatline" translatable="false"><![CDATA[
+<b>Pros</b><ul><li><i>2x Headshot Multiplier</i></li>
+<li><i>High Damage</i></li>
+<li><i>Good Performance at close/medium range</i></li>
+<li>Good Ammo Depletion Time</li></ul><b>Cons</b><ul><li>Poor Accuracy</li>
+<li>Poor Long Range Performance</li></ul>]]></string>
 
     <string name="description_R301_Carbine">The R-301 Carbine is an assault rifle weapon which uses Light rounds. It has
         a magazine of 18 (without attachments). It does 14 damage per shot, and 28 per headshot. The R-301 Carbine is
@@ -56,6 +62,16 @@
                 <a href="/Light_Rounds" title="Light Rounds">Light Rounds</a>
             </li>
         </ul>]]></string>
+    <string name="procons_R301_Carbine" translatable="false"><![CDATA[
+<b>Pros</b>
+<ul><li><i>High Accuracy</i></li>
+<li><i>2x Headshot Multiplier</i></li>
+<li><i>High Rate of Fire</i></li>
+<li><i>Good Performance at close/medium range</i></li>
+<li><i>Excellent Performance at Long Range</i></li></ul>
+<b>Cons</b>
+<ul><li><i>Low Damage</i></li>
+<li><i>Low Base Ammo Capacity</i></li></ul>]]></string>
 
     <string name="description_hemlok">The Hemlok Burst AR is an assault rifle which uses Heavy Rounds. It has a magazine
         of 18 (without attachments). It does 18 damage per shot and 24 per headshot. It is able to toggle between single
@@ -67,6 +83,14 @@
 <li><b>Base Rate of Fire:</b> 490 RPM</li>
 <li><b>Base Magazine Capacity:</b> 18</li>
 <li><b>Ammo Type:</b> <a href="/Heavy_Rounds" title="Heavy Rounds">Heavy Rounds</a></li></ul>]]></string>
+    <string name="procons_hemlok" translatable="false"><![CDATA[
+<b>Pros</b><ul><li><i>High Accuracy</i></li>
+<li><i>High Burst Damage</i></li>
+<li><i>Good Medium/Long Range</i></li>
+<li><i>Good Burst Rate Of Fire</i></li></ul><b>Cons</b><ul><li><i>Low Overall Rate Of Fire</i></li>
+<li>1.25X Headshot Multiplier</li>
+<li><i>Low Base Ammo Capacity</i></li>
+<li><i>Poor Close Range Performance</i></li></ul>]]></string>
 
     <string name="description_alternator">The Alternator SMG is a sub machine gun weapon in Apex Legends. As the name
         implies, it fires through two alternating barrels
