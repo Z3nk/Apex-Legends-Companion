@@ -8,9 +8,12 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.tabs.TabLayout
 import fr.apexlegends.guide.R
 import fr.apexlegends.guide.databinding.DetailsFragmentBinding
+import fr.apexlegends.guide.home.home.adapter.SpellItemAdapter
 import fr.apexlegends.guide.manager.IManager
 import fr.apexlegends.guide.manager.LegendsManager
 import fr.apexlegends.guide.manager.WeaponsManager
@@ -80,11 +83,20 @@ class DetailsFragment : Fragment() {
     }
 
     private fun inflateLegendsStatsTab(gameItem: GameItem) {
+        binding.layoutStats.visibility = View.GONE
+        binding.layoutTitleProcons.visibility = View.GONE
+        binding.spellsAdapter.apply {
+            setHasFixedSize(true)
+            layoutManager = LinearLayoutManager(activity, RecyclerView.VERTICAL, false)
+            adapter = SpellItemAdapter(gameItem.spells!!)
+        }
     }
 
     private fun inflateWeaponsStatsTab(gameItem: GameItem) {
         binding.tvStats.text = Html.fromHtml(gameItem.stats, null, UlTagHandler())
         binding.tvProcons.text = Html.fromHtml(gameItem.procons, null, UlTagHandler())
+        binding.spellsAdapter.visibility = View.GONE
+        binding.layoutTitleSpells.visibility = View.GONE
     }
 
     private fun inflateInformationsTabs(gameItem: GameItem) {
