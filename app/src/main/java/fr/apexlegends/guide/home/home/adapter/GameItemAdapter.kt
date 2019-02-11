@@ -17,16 +17,16 @@ class GameItemAdapter(
 
     class VH(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val title: TextView? = itemView.findViewById(R.id.tv_title)
-        val subtitle: TextView? = itemView.findViewById(R.id.tv_subtitle)
-        val name: TextView? = itemView.findViewById(R.id.tv_name)
+        val type: TextView? = itemView.findViewById(R.id.tv_subtitle)
+        val label: TextView? = itemView.findViewById(R.id.tv_name)
         val picture: ImageView? = itemView.findViewById(R.id.iv_game_item)
         val container: View? = itemView.findViewById(R.id.container)
     }
 
     override fun onBindViewHolder(holder: VH, position: Int) {
         holder.title?.text = data[position].title
-        holder.subtitle?.text = data[position].subTitle
-        holder.name?.text = data[position].name
+        holder.type?.text = data[position].type
+        holder.label?.text = data[position].label
         holder.picture?.setImageResource(data[position].picture)
         holder.container?.setOnClickListener {
             onClick(data[position])
