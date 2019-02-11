@@ -59,7 +59,7 @@ class HomeFragment : Fragment() {
             layoutManager = LinearLayoutManager(activity, LinearLayoutManager.HORIZONTAL, false)
             adapter = GameItemAdapter(
                 listOf(
-                    GameItem(R.drawable.carte, R.drawable.carte, "", "Respawn : Entertainement", "", "")
+                    GameItem(R.drawable.carte, R.drawable.carte, "", "Respawn : Entertainement", "", "", "", "")
                 )
             ) {
 

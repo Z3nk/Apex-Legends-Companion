@@ -16,32 +16,296 @@
     <string name="les_cartes">Maps</string>
     <string name="type_legends" translatable="false">TYPE_LEGENDS</string>
     <string name="type_weapons" translatable="false">TYPE_WEAPONS</string>
-    <string name="description_V47_flatline">The VK-47 Flatline is an assault rifle which uses Heavy Rounds. It has a magazine of 20 (without attachments). It does 16 damage per shot and 32 per headshot. The Flatline is able to switch between single and automatic firing modes</string>
-    <string name="description_R301_Carbine">The R-301 Carbine is an assault rifle weapon which uses Light rounds. It has a magazine of 18 (without attachments). It does 14 damage per shot, and 28 per headshot. The R-301 Carbine is able to switch between single and automatic firing modes</string>
-    <string name="description_hemlok">The Hemlok Burst AR is an assault rifle which uses Heavy Rounds. It has a magazine of 18 (without attachments). It does 18 damage per shot and 24 per headshot. It is able to toggle between single and 3 round burst firing modes</string>
-    <string name="description_alternator">The Alternator SMG is a sub machine gun weapon in Apex Legends. As the name implies, it fires through two alternating barrels</string>
-    <string name="description_R99">The R-99 is a sub machine gun weapon in Apex Legends</string>
-    <string name="description_prowler">The Prowler Burst PDW is a sub machine gun weapon in Apex Legends that fires in a 5-round burst, unless you have the Selectfire Receiver Hop-Up attachment, in which case it can be enabled into fully automatic fire</string>
-    <string name="description_spitfire">The M600 Spitfire is a light machine gun weapon in Apex Legends.</string>
-    <string name="description_devotion">The Devotion is a light machine gun weapon that takes energy ammo to use and has a unique spin-up mechanic. This means that the longer the gun is fired continuously, the faster the fire rate will become. This weapon can be difficult to find ammo for because of this rapid ammo consuming feature and the fact that it is one of only two energy weapons in the game, the other being the Triple Take sniper rifle. This weapon\'s hop-up is called turbocharger and it increases the speed at which the gun will spin-up.</string>
-    <string name="description_triple_take">The Triple Take is a sniper weapon in Apex Legends.</string>
-    <string name="description_longbow">The Longbow DMR is a sniper weapon in Apex Legends.</string>
-    <string name="description_G7">The G7 Scout is a sniper weapon in Apex Legends.</string>
-    <string name="description_kraber">The Kraber .50 CAL is a special level 4 (Legendary) rarity bolt action magazine fed sniper rifle only obtainable from air drops (not included in airdrops summoned by Lifeline\'s ultimate ability). This is the most powerful sniper in the game, but also the rarest, as it is only obtainable in this special way. It is uses its own unique ammo type that takes no inventory space, and thus cannot be dropped or looted separately from the weapon itself.</string>
-    <string name="description_peacekeeper">The Peacekeeper is a lever action clip fed shotgun that fires 11 pellets in the shape of a star (1 pellet in the middle and 2 on each outer line of the star shape).</string>
-    <string name="description_EVA8">The EVA-8 Auto is a fully automatic magazine fed shotgun that fires 9 pellets in the shape of the number 8.</string>
-    <string name="description_mozambique">The Mozambique Shotgun is a clip fed triple-barrel shotgun pistol that uses shotgun attachments. It fires 3 pellets, one from each barrel, in the shape of a triangle, with the top middle pellet hitting the place of the red dot while aiming down its iron sights</string>
-    <string name="description_mastiff">The Mastiff Shotgun is a special level 4 (Legendary) rarity semi-automatic tube-fed shotgun that fires 8 pellets in the shape of a horizontal line, which decreases in width while aiming down the sights, reducing spread and thus increasing accuracy. It can only be obtained from airdrops (not included in airdrops summoned by Lifeline\'s ultimate ability). It is uses its own unique ammo type that takes no inventory space, and thus cannot be dropped or looted separately from the weapon itself.</string>
-    <string name="description_RE_45">The RE 45 Auto is a fully automatic magazine fed pistol weapon in Apex Legends.</string>
-    <string name="description_P2020">The P2020 is a semi-automatic magazine fed pistol pistol weapon in Apex Legends.</string>
-    <string name="description_wingman">The Wingman is a revolver style pistol weapon that has a 3-shot headshot potential on someone with full armor (or 2-shot with the Skullpiercer Rifling attachment), making it a brutal weapon for someone who can reliably land headshots.</string>
-    <string name="legend_bangalore">Born into a military family where she, her parents, and her four older brothers all served in the IMC Armed Forces, 40138416 callsign Bangalore has been an exceptional soldier since she was young. She was top of her class at the IMC Military Academy and the only cadet who could take apart a Peacekeeper, equip it with a Precision Choke hop-up, and put it back together in under twenty seconds – blindfolded. \nThree years ago, Anita and her brother Jackson were ordered to retrieve a mercenary fleet from the Outlands to aid in the IMC\'s fight against the Militia. However, their unit lost contact with IMC HQ and were ambushed on arrival. The squad scattered, but Jackson stayed behind to give his sister time to escape. Alone and with no way home, Anita put her training, extensive weapon knowledge, and competitive spirit to work by joining the Apex Games. Now, she fights to raise money for passage back to the IMC home base, where she hopes to reunite with what remains of her family.</string>
-    <string name="legend_bloodhount">Bloodhound is known across the Outlands as one of the greatest game hunters the Frontier has ever seen – and that\'s about all anyone knows. Their identity is a mystery wrapped in layers of rumors: they are fabulously wealthy, a bloodthirsty murderer, a Goliath whisperer, a former slave, half bat, and a dozen other things depending on who\'s doing the whispering. \nAll anyone truly knows is that Bloodhound is a force to be reckoned with in the Apex Games. Bloodhound\'s unparalleled tracking skills are a boon to any team they join, helping them root out hidden opponents and tracking the enemy\'s movements. Calling on Earth\'s Old Norse Gods to guide them, Bloodhound believes that destiny is a path that has already been laid out, eventually carrying all to their death. But with that knowledge comes strength, because until that day comes, Bloodhound knows they can\'t be stopped.</string>
-    <string name="legend_caustic">Before there was Caustic, a scientist named Alexander Nox worked at Humbert Labs, the Frontier\'s leading manufacturer of pesticide gases. With a glut of pesticides needed to protect the growing Frontier colonies’ crops, Humbert Labs was constantly on the hunt for better and stronger formulas. Nox was one of their brightest scientists and worked day and night developing new gases. But to make sure they worked, he needed to test them on more than just inert tissue: he needed something living. As he toiled in secret, Nox began to see the beauty in his creations and their ability to destroy anything they touched. But the head of Humbert Labs soon discovered his gruesome experiments, and their confrontation ended with the lab in flames and its chief dead. Today, Nox is missing and presumed deceased. Caustic, meanwhile, now finds new test subjects in the Apex Games, where he puts his gaseous creations to work and observes their effects with great interest.</string>
-    <string name="legend_gibraltar">Gibraltar is a gentle giant with a wild side. The son of two SARAS (Search and Rescue Association of Solace) volunteers, he has always been skilled at getting others out of dangerous situations that are common in the Outlands. However, he only began to understand the value of protecting others when he and his boyfriend stole his father\'s motorcycle, took it on a joyride, and got trapped by a deadly mudslide. His parents saved them, and his father lost an arm in the process. Gibraltar has never forgotten that sacrifice and has devoted his life to helping those in need. \nThe Apex Games didn\'t change that, but they changed what it meant. Many of Gibraltar\'s friends and colleagues have competed in the Games for extra money, fame, and glory over the years, and some never came home. Gibraltar joined to keep them safe and, for the first time, his skills as a rescuer and his rebellious nature worked together. He\'s now become an icon in the Apex Games, putting himself in the line of fire to protect his squad and send his opponents running for cover.</string>
-    <string name="legend_lifeline">Ajay Che, AKA Lifeline, isn\'t someone you would expect to find in the Apex Games. Once the child of wealthy war profiteers, she left home when she learned of the damage her family had caused and enlisted in the Frontier Corps, a humanitarian organization that aids Frontier communities in need. She\'s since devoted her life to helping others and joined the Apex Games to fund the Frontier Corps with her winnings. \nSince no one in the Games is innocent — they all know what they signed up for — and every one of her victories means help for those in need, Lifeline has no problem engaging in the popular bloodsport. Or so she tells herself. She may seem sarcastic and callous, but deep down she wants to help people and make the world a better place. If that means taking a few people down in the process, so be it.</string>
-    <string name="legend_mirage">Mirage is the kind of guy who likes to stand out. The youngest of four brothers, he perfected the art of fooling around to get attention. The one thing he took seriously was Holo-Pilot technology: introduced to the illusion-creating tech by his engineer mother, he poured over the mechanisms and learned all he could about them. Even when his brothers went MIA during the Frontier War, Mirage and his mother continued to develop holo devices, and the work brought them closer. \nWhile working as a bartender to make ends meet, Mirage heard amazing stories from his patrons about the Apex Games and the wealth and glory that came with victory. As good as both of those sounded, he knew he couldn\'t risk leaving his mother childless – until she gave him a set of customized holo devices and told him to follow his dream. Mirage is now the life of the Apex Games, outwitting opponents and charming audiences across the Outlands.</string>
-    <string name="legend_pathfinder">Pathfinder is the picture of optimism, despite his circumstances. A MRVN (Mobile Robotic Versatile eNtity) modified to specialize in location scouting and surveying, he booted up decades ago in an abandoned laboratory with no idea who created him or why. With only his MRVN designation to hint at his identity, Pathfinder set off in search of his creator. \nPathfinder has learned much in his travels since then (like how to make a mean Eastern Leviathan Stew) but hasn\'t come any closer to finding his creator. Still, he\'s never given up hope, and has joined the Apex Games to gain a following—and hopefully draw the attention of his maker. In the meantime, he remains enthusiastic and helpful, always ready to make new friends (then shoot them).</string>
-    <string name="legend_wraith">Wraith is a whirlwind fighter, able to execute swift and deadly attacks and manipulate spacetime by opening rifts in the fabric of reality — but she has no idea how she got that way. Years ago, she woke up in an IMC Detention Facility for the Mentally Ill with no memory of her life before. She also began hearing a distant voice whispering in her mind that would keep her awake for days on end. Despite nearly driving her insane, once she started to listen and trust it, the voice helped her harness her newfound power of void manipulation and escape the facility. Determined to uncover her true identity, Wraith began a quest to find out more about the experiments. Many of the old research facilities, however, are buried beneath heavily guarded arenas used for the Apex Games. Now Wraith has joined the competition, and with every match she gets closer to the truth.</string>
+    <string name="description_V47_flatline">The VK-47 Flatline is an assault rifle which uses Heavy Rounds. It has a
+        magazine of 20 (without attachments). It does 16 damage per shot and 32 per headshot. The Flatline is able to
+        switch between single and automatic firing modes
+    </string>
+    <string name="stats_V47_flatline" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 16</li>
+<li><b>Headshot Damage:</b> 32 (2x)</li>
+<li><b>Base Rate of Fire:</b> 600 RPM</li>
+<li><b>Base Magazine Capacity:</b> 20</li>
+<li><b>Ammo Type:</b> <a href="/Heavy_Rounds" title="Heavy Rounds">Heavy Rounds</a></li></ul>]]></string>
 
+    <string name="description_R301_Carbine">The R-301 Carbine is an assault rifle weapon which uses Light rounds. It has
+        a magazine of 18 (without attachments). It does 14 damage per shot, and 28 per headshot. The R-301 Carbine is
+        able to switch between single and automatic firing modes
+    </string>
+    <string name="stats_R301_Carbine" translatable="false"><![CDATA[<ul>
+            <li>
+                <b>Base Damage:</b>
+                14
+            </li>
+            <li>
+                <b>Leg Damage:</b>
+                11 (0.78x)
+            </li>
+            <li>
+                <b>Headshot Damage:</b>
+                28 (2x)
+            </li>
+            <li>
+                <b>Base Rate of Fire:</b>
+                720 RPM
+            </li>
+            <li>
+                <b>Base Magazine Capacity:</b>
+                18
+            </li>
+            <li>
+                <b>Ammo Type:</b>
+                <a href="/Light_Rounds" title="Light Rounds">Light Rounds</a>
+            </li>
+        </ul>]]></string>
+
+    <string name="description_hemlok">The Hemlok Burst AR is an assault rifle which uses Heavy Rounds. It has a magazine
+        of 18 (without attachments). It does 18 damage per shot and 24 per headshot. It is able to toggle between single
+        and 3 round burst firing modes
+    </string>
+    <string name="stats_hemlok" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 18 per bullet, 54 (3x18) per full 3 round burst</li>
+<li><b>Leg Damage:</b> 14 per bullet (0.78x), 42 (3x14) per full 3 round burst</li>
+<li><b>Headshot Damage:</b> 24 per bullet (1.33X), 72 (3x24) per full 3 round burst</li>
+<li><b>Base Rate of Fire:</b> 490 RPM</li>
+<li><b>Base Magazine Capacity:</b> 18</li>
+<li><b>Ammo Type:</b> <a href="/Heavy_Rounds" title="Heavy Rounds">Heavy Rounds</a></li></ul>]]></string>
+
+    <string name="description_alternator">The Alternator SMG is a sub machine gun weapon in Apex Legends. As the name
+        implies, it fires through two alternating barrels
+    </string>
+    <string name="stats_alternator" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 13</li>
+<li><b>Leg Damage:</b> 11</li>
+<li><b>Headshot Damage:</b> 19 (1.46x)</li>
+<li><b>Base Rate of Fire:</b> 640 RPM</li>
+<li><b>Base Magazine Capacity:</b> 16</li>
+<li><b>Ammo Type:</b> <a href="/Light_Rounds" title="Light Rounds">Light Rounds</a></li></ul>]]></string>
+
+    <string name="description_R99">The R-99 is a sub machine gun weapon in Apex Legends</string>
+
+    <string name="stats_R99" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 12</li>
+<li><b>Headshot Damage:</b> 18 (1.5x)</li>
+<li><b>Base Rate of Fire:</b> 1080 RPM</li>
+<li><b>Base Magazine Capacity:</b> 18</li>
+<li><b>Ammo Type:</b> <a href="/Light_Rounds" title="Light Rounds">Light Rounds</a></li></ul>]]></string>
+
+    <string name="description_prowler">The Prowler Burst PDW is a sub machine gun weapon in Apex Legends that fires in a
+        5-round burst, unless you have the Selectfire Receiver Hop-Up attachment, in which case it can be enabled into
+        fully automatic fire
+    </string>
+
+    <string name="stats_prowler" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 14 per bullet, 70 (5x14) per full 5 round burst</li>
+<li><b>Headshot Damage:</b> 21 (1.5x) per bullet, 105 (5x21) per full 5 round burst</li>
+<li><b>Base Rate of Fire:</b> 800 RPM</li>
+<li><b>Base Magazine Capacity:</b> 20</li>
+<li><b>Ammo Type:</b> <a href="/Heavy_Rounds" title="Heavy Rounds">Heavy Rounds</a></li></ul>]]></string>
+
+    <string name="description_spitfire">The M600 Spitfire is a light machine gun weapon in Apex Legends.</string>
+    <string name="stats_spitfire" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 20</li>
+<li><b>Headshot Damage:</b> 40 (2x)</li>
+<li><b>Base Rate of Fire:</b> 512 RPM</li>
+<li><b>Base Magazine Capacity:</b> 35</li>
+<li><b>Ammo Type:</b> <a href="/Heavy_Rounds" title="Heavy Rounds">Heavy Rounds</a></li></ul>]]></string>
+
+    <string name="description_devotion">The Devotion is a light machine gun weapon that takes energy ammo to use and has
+        a unique spin-up mechanic. This means that the longer the gun is fired continuously, the faster the fire rate
+        will become. This weapon can be difficult to find ammo for because of this rapid ammo consuming feature and the
+        fact that it is one of only two energy weapons in the game, the other being the Triple Take sniper rifle. This
+        weapon\'s hop-up is called turbocharger and it increases the speed at which the gun will spin-up.
+    </string>
+    <string name="stats_devotion" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 17</li>
+<li><b>Headshot Damage:</b> 34 (2x)</li>
+<li><b>Base Rate of Fire:</b> 900 RPM</li>
+<li><b>Base Magazine Capacity:</b> 44</li>
+<li><b>Ammo Type:</b> <a href="/Energy_Ammo" title="Energy Ammo">Energy Ammo</a></li></ul>]]></string>
+
+    <string name="description_triple_take">The Triple Take is a sniper weapon in Apex Legends.</string>
+    <string name="stats_triple_take" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 23 per projectile, 69 total</li>
+<li><b>Headshot Damage:</b> 46 per projectile (2x), 138 total</li>
+<li><b>Base Rate of Fire:</b> 88 RPM</li>
+<li><b>Base Magazine Capacity:</b> 5</li>
+<li><b>Ammo Type:</b> <a href="/Energy_Ammo" title="Energy Ammo">Energy Ammo</a></li></ul>]]></string>
+
+    <string name="description_longbow">The Longbow DMR is a sniper weapon in Apex Legends.</string>
+    <string name="stats_longbow" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 55</li>
+<li><b>Headshot Damage:</b> 110 (2x)</li>
+<li><b>Base Rate of Fire:</b> 86 RPM</li>
+<li><b>Base Magazine Capacity:</b> 5</li>
+<li><b>Ammo Type:</b> <a href="/Heavy_Rounds" title="Heavy Rounds">Heavy Rounds</a></li></ul>]]></string>
+
+    <string name="description_G7">The G7 Scout is a sniper weapon in Apex Legends.</string>
+    <string name="stats_G7" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 30</li>
+<li><b>Headshot Damage:</b> 60 (2x)</li>
+<li><b>Base Rate of Fire:</b> 273 RPM</li>
+<li><b>Base Magazine Capacity:</b> 10</li>
+<li><b>Ammo Type:</b> <a href="/Light_Rounds" title="Light Rounds">Light Rounds</a></li></ul>]]></string>
+
+    <string name="description_kraber">The Kraber .50 CAL is a special level 4 (Legendary) rarity bolt action magazine
+        fed sniper rifle only obtainable from air drops (not included in airdrops summoned by Lifeline\'s ultimate
+        ability). This is the most powerful sniper in the game, but also the rarest, as it is only obtainable in this
+        special way. It is uses its own unique ammo type that takes no inventory space, and thus cannot be dropped or
+        looted separately from the weapon itself.
+    </string>
+    <string name="stats_kraber" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 125</li>
+<li><b>Headshot Damage:</b> 250 (2x)</li>
+<li><b>Base Rate of Fire:</b> 36 RPM</li>
+<li><b>Base Magazine Capacity:</b> 4</li>
+<li><b>Ammo Type:</b> 8 (4+4) Special Ammo that cannot be replenished nor dropped.</li></ul>]]></string>
+
+    <string name="description_peacekeeper">The Peacekeeper is a lever action clip fed shotgun that fires 11 pellets in
+        the shape of a star (1 pellet in the middle and 2 on each outer line of the star shape).
+    </string>
+    <string name="stats_peacekeeper" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 10 per pellet, 110 (11x10) for all 11 pellets</li>
+<li><b>Headshot Damage:</b> 15 per pellet (1.5x), 165 (11x15) for all 11 pellets</li>
+<li><b>Base Rate of Fire:</b> 58 RPM</li>
+<li><b>Base Magazine Capacity:</b> 6</li>
+<li><b>Ammo Type:</b> <a href="/Shotgun_Shells" title="Shotgun Shells">Shotgun Shells</a></li></ul>]]></string>
+
+    <string name="description_EVA8">The EVA-8 Auto is a fully automatic magazine fed shotgun that fires 9 pellets in the
+        shape of the number 8.
+    </string>
+    <string name="stats_EVA8" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 7 per pellet, 63 (9x7) for all 9 pellets</li>
+<li><b>Headshot Damage:</b> 10 per pellet (1.43x), 90 (9x10) for all 9 pellets</li>
+<li><b>Base Rate of Fire:</b> 128 RPM</li>
+<li><b>Base Magazine Capacity:</b> 8</li>
+<li><b>Ammo Type:</b> <a href="/Shotgun_Shells" title="Shotgun Shells">Shotgun Shells</a></li></ul>]]></string>
+
+    <string name="description_mozambique">The Mozambique Shotgun is a clip fed triple-barrel shotgun pistol that uses
+        shotgun attachments. It fires 3 pellets, one from each barrel, in the shape of a triangle, with the top middle
+        pellet hitting the place of the red dot while aiming down its iron sights
+    </string>
+    <string name="stats_mozambique" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 15 per pellet, 45 (3x15) for all 3 pellets</li>
+<li><b>Headshot Damage:</b> 22 per pellet (1.5x), 66 (3x22) for all 3 pellets</li>
+<li><b>Base Rate of Fire:</b> 180 RPM</li>
+<li><b>Base Magazine Capacity:</b> 3</li>
+<li><b>Ammo Type:</b> <a href="/Shotgun_Shells" title="Shotgun Shells">Shotgun Shells</a></li></ul>]]></string>
+
+    <string name="description_mastiff">The Mastiff Shotgun is a special level 4 (Legendary) rarity semi-automatic
+        tube-fed shotgun that fires 8 pellets in the shape of a horizontal line, which decreases in width while aiming
+        down the sights, reducing spread and thus increasing accuracy. It can only be obtained from airdrops (not
+        included in airdrops summoned by Lifeline\'s ultimate ability). It is uses its own unique ammo type that takes
+        no inventory space, and thus cannot be dropped or looted separately from the weapon itself.
+    </string>
+    <string name="stats_mastiff" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 18 per pellet, 144 (8x18) for all 8 pellets</li>
+<li><b>Headshot Damage:</b> 36 per pellet (2x), 288 (8x36) for all 8 pellets</li>
+<li><b>Base Rate of Fire:</b> 96 RPM</li>
+<li><b>Base Magazine Capacity:</b> 4</li>
+<li><b>Ammo Type:</b>  20 (4+16) Special Shotgun Shells (Unique to the weapon, can only be found on the weapon, takes no inventory space, cannot be dropped)</li></ul>]]></string>
+
+    <string name="description_RE_45">The RE 45 Auto is a fully automatic magazine fed pistol weapon in Apex Legends.
+    </string>
+    <string name="stats_RE_45" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 11</li>
+<li><b>Headshot Damage:</b> 16 (1.45x)</li>
+<li><b>Base Rate of Fire:</b> 750 RPM</li>
+<li><b>Base Magazine Capacity:</b> 15</li>
+<li><b>Ammo Type:</b> <a href="/Light_Rounds" title="Light Rounds">Light Rounds</a></li></ul>]]></string>
+
+    <string name="description_P2020">The P2020 is a semi-automatic magazine fed pistol pistol weapon in Apex Legends.
+    </string>
+    <string name="stats_P2020" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 12</li>
+<li><b>Headshot Damage:</b> 18 (1.5x)</li>
+<li><b>Base Rate of Fire:</b> 430 RPM</li>
+<li><b>Base Magazine Capacity:</b> 10</li>
+<li><b>Ammo Type:</b> <a href="/Light_Rounds" title="Light Rounds">Light Rounds</a></li></ul>]]></string>
+
+    <string name="description_wingman">The Wingman is a revolver style pistol weapon that has a 3-shot headshot
+        potential on someone with full armor (or 2-shot with the Skullpiercer Rifling attachment), making it a brutal
+        weapon for someone who can reliably land headshots.
+    </string>
+    <string name="stats_wingman" translatable="false"><![CDATA[<ul><li><b>Base Damage:</b> 45</li>
+<li><b>Headshot Damage:</b> 90 (2x)</li>
+<li><b>Base Rate of Fire:</b> 205 RPM</li>
+<li><b>Base Magazine Capacity:</b> 6</li>
+<li><b>Ammo Type:</b> <a href="/Heavy_Rounds" title="Heavy Rounds">Heavy Rounds</a></li></ul>]]></string>
+
+    <string name="legend_bangalore">Born into a military family where she, her parents, and her four older brothers all
+        served in the IMC Armed Forces, 40138416 callsign Bangalore has been an exceptional soldier since she was young.
+        She was top of her class at the IMC Military Academy and the only cadet who could take apart a Peacekeeper,
+        equip it with a Precision Choke hop-up, and put it back together in under twenty seconds – blindfolded. \nThree
+        years ago, Anita and her brother Jackson were ordered to retrieve a mercenary fleet from the Outlands to aid in
+        the IMC\'s fight against the Militia. However, their unit lost contact with IMC HQ and were ambushed on arrival.
+        The squad scattered, but Jackson stayed behind to give his sister time to escape. Alone and with no way home,
+        Anita put her training, extensive weapon knowledge, and competitive spirit to work by joining the Apex Games.
+        Now, she fights to raise money for passage back to the IMC home base, where she hopes to reunite with what
+        remains of her family.
+    </string>
+
+    <string name="legend_bloodhount">Bloodhound is known across the Outlands as one of the greatest game hunters the
+        Frontier has ever seen – and that\'s about all anyone knows. Their identity is a mystery wrapped in layers of
+        rumors: they are fabulously wealthy, a bloodthirsty murderer, a Goliath whisperer, a former slave, half bat, and
+        a dozen other things depending on who\'s doing the whispering. \nAll anyone truly knows is that Bloodhound is a
+        force to be reckoned with in the Apex Games. Bloodhound\'s unparalleled tracking skills are a boon to any team
+        they join, helping them root out hidden opponents and tracking the enemy\'s movements. Calling on Earth\'s Old
+        Norse Gods to guide them, Bloodhound believes that destiny is a path that has already been laid out, eventually
+        carrying all to their death. But with that knowledge comes strength, because until that day comes, Bloodhound
+        knows they can\'t be stopped.
+    </string>
+
+    <string name="legend_caustic">Before there was Caustic, a scientist named Alexander Nox worked at Humbert Labs, the
+        Frontier\'s leading manufacturer of pesticide gases. With a glut of pesticides needed to protect the growing
+        Frontier colonies’ crops, Humbert Labs was constantly on the hunt for better and stronger formulas. Nox was one
+        of their brightest scientists and worked day and night developing new gases. But to make sure they worked, he
+        needed to test them on more than just inert tissue: he needed something living. As he toiled in secret, Nox
+        began to see the beauty in his creations and their ability to destroy anything they touched. But the head of
+        Humbert Labs soon discovered his gruesome experiments, and their confrontation ended with the lab in flames and
+        its chief dead. Today, Nox is missing and presumed deceased. Caustic, meanwhile, now finds new test subjects in
+        the Apex Games, where he puts his gaseous creations to work and observes their effects with great interest.
+    </string>
+
+    <string name="legend_gibraltar">Gibraltar is a gentle giant with a wild side. The son of two SARAS (Search and
+        Rescue Association of Solace) volunteers, he has always been skilled at getting others out of dangerous
+        situations that are common in the Outlands. However, he only began to understand the value of protecting others
+        when he and his boyfriend stole his father\'s motorcycle, took it on a joyride, and got trapped by a deadly
+        mudslide. His parents saved them, and his father lost an arm in the process. Gibraltar has never forgotten that
+        sacrifice and has devoted his life to helping those in need. \nThe Apex Games didn\'t change that, but they
+        changed what it meant. Many of Gibraltar\'s friends and colleagues have competed in the Games for extra money,
+        fame, and glory over the years, and some never came home. Gibraltar joined to keep them safe and, for the first
+        time, his skills as a rescuer and his rebellious nature worked together. He\'s now become an icon in the Apex
+        Games, putting himself in the line of fire to protect his squad and send his opponents running for cover.
+    </string>
+
+    <string name="legend_lifeline">Ajay Che, AKA Lifeline, isn\'t someone you would expect to find in the Apex Games.
+        Once the child of wealthy war profiteers, she left home when she learned of the damage her family had caused and
+        enlisted in the Frontier Corps, a humanitarian organization that aids Frontier communities in need. She\'s since
+        devoted her life to helping others and joined the Apex Games to fund the Frontier Corps with her winnings.
+        \nSince no one in the Games is innocent — they all know what they signed up for — and every one of her victories
+        means help for those in need, Lifeline has no problem engaging in the popular bloodsport. Or so she tells
+        herself. She may seem sarcastic and callous, but deep down she wants to help people and make the world a better
+        place. If that means taking a few people down in the process, so be it.
+    </string>
+
+    <string name="legend_mirage">Mirage is the kind of guy who likes to stand out. The youngest of four brothers, he
+        perfected the art of fooling around to get attention. The one thing he took seriously was Holo-Pilot technology:
+        introduced to the illusion-creating tech by his engineer mother, he poured over the mechanisms and learned all
+        he could about them. Even when his brothers went MIA during the Frontier War, Mirage and his mother continued to
+        develop holo devices, and the work brought them closer. \nWhile working as a bartender to make ends meet, Mirage
+        heard amazing stories from his patrons about the Apex Games and the wealth and glory that came with victory. As
+        good as both of those sounded, he knew he couldn\'t risk leaving his mother childless – until she gave him a set
+        of customized holo devices and told him to follow his dream. Mirage is now the life of the Apex Games,
+        outwitting opponents and charming audiences across the Outlands.
+    </string>
+
+
+    <string name="legend_pathfinder">Pathfinder is the picture of optimism, despite his circumstances. A MRVN (Mobile
+        Robotic Versatile eNtity) modified to specialize in location scouting and surveying, he booted up decades ago in
+        an abandoned laboratory with no idea who created him or why. With only his MRVN designation to hint at his
+        identity, Pathfinder set off in search of his creator. \nPathfinder has learned much in his travels since then
+        (like how to make a mean Eastern Leviathan Stew) but hasn\'t come any closer to finding his creator. Still,
+        he\'s never given up hope, and has joined the Apex Games to gain a following—and hopefully draw the attention of
+        his maker. In the meantime, he remains enthusiastic and helpful, always ready to make new friends (then shoot
+        them).
+    </string>
+
+    <string name="legend_wraith">Wraith is a whirlwind fighter, able to execute swift and deadly attacks and manipulate
+        spacetime by opening rifts in the fabric of reality — but she has no idea how she got that way. Years ago, she
+        woke up in an IMC Detention Facility for the Mentally Ill with no memory of her life before. She also began
+        hearing a distant voice whispering in her mind that would keep her awake for days on end. Despite nearly driving
+        her insane, once she started to listen and trust it, the voice helped her harness her newfound power of void
+        manipulation and escape the facility. Determined to uncover her true identity, Wraith began a quest to find out
+        more about the experiments. Many of the old research facilities, however, are buried beneath heavily guarded
+        arenas used for the Apex Games. Now Wraith has joined the competition, and with every match she gets closer to
+        the truth.
+    </string>
+    <string name="tab_informations" translatable="false">Informations</string>
+    <string name="tab_stats" translatable="false">Stats</string>
+    <string name="description" translatable="false">Description</string>
+    <string name="stats" translatable="false">Stats</string>
+    <string name="pros_amp_cons">Pros &amp; Cons</string>
 </resources>

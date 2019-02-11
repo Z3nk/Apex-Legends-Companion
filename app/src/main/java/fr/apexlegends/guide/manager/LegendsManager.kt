@@ -13,7 +13,9 @@ class LegendsManager(val context: Context) : IManager {
             "",
             "Bangalore",
             context.getString(R.string.damage),
-            context.getString(R.string.legend_bangalore)
+            context.getString(R.string.legend_bangalore),
+            "",
+            ""
         ),
         GameItem(
             R.drawable.bloodhound,
@@ -21,7 +23,9 @@ class LegendsManager(val context: Context) : IManager {
             "",
             "Bloodhound",
             context.getString(R.string.radar),
-            context.getString(R.string.legend_bloodhount)
+            context.getString(R.string.legend_bloodhount),
+            "",
+            ""
         ),
         GameItem(
             R.drawable.caustic,
@@ -29,7 +33,9 @@ class LegendsManager(val context: Context) : IManager {
             "",
             "Caustic",
             context.getString(R.string.tank),
-            context.getString(R.string.legend_caustic)
+            context.getString(R.string.legend_caustic),
+            "",
+            ""
         ),
         GameItem(
             R.drawable.gibraltar,
@@ -37,7 +43,9 @@ class LegendsManager(val context: Context) : IManager {
             "",
             "Gibraltar",
             context.getString(R.string.tank),
-            context.getString(R.string.legend_gibraltar)
+            context.getString(R.string.legend_gibraltar),
+            "",
+            ""
         ),
         GameItem(
             R.drawable.lifeline,
@@ -45,7 +53,9 @@ class LegendsManager(val context: Context) : IManager {
             "",
             "Lifeline",
             context.getString(R.string.support),
-            context.getString(R.string.legend_lifeline)
+            context.getString(R.string.legend_lifeline),
+            "",
+            ""
         ),
         GameItem(
             R.drawable.mirage,
@@ -53,8 +63,9 @@ class LegendsManager(val context: Context) : IManager {
             "",
             "Mirage",
             context.getString(R.string.damage),
-
-            context.getString(R.string.legend_mirage)
+            context.getString(R.string.legend_mirage),
+            "",
+            ""
         ),
         GameItem(
             R.drawable.pathfinder,
@@ -62,14 +73,18 @@ class LegendsManager(val context: Context) : IManager {
             "",
             "Pathfinder",
             context.getString(R.string.support),
-            context.getString(R.string.legend_pathfinder)
+            context.getString(R.string.legend_pathfinder),
+            "",
+            ""
         ),
         GameItem(
             R.drawable.wraith,
             R.drawable.wraith, "",
             "Wraith",
             context.getString(R.string.damage),
-            context.getString(R.string.legend_wraith)
+            context.getString(R.string.legend_wraith),
+            "",
+            ""
         )
     )
 

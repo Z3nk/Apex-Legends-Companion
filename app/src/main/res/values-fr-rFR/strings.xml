@@ -12,32 +12,162 @@
     <string name="radar">Radar</string>
     <string name="support">Soutien</string>
     <string name="les_cartes">Les cartes</string>
-    <string name="description_V47_flatline">Le VK-47 Flatline est un fusil d\'assaut qui utilise Heavy Rounds. Il dispose d\'un magasin de 20 (sans accessoires). Il fait 16 dégâts par tir et 32 par tir de tête. La Flatline est capable de basculer entre les modes de cuisson simple et automatique.</string>
-    <string name="description_R301_Carbine">La carabine R-301 est un fusil d\'assaut qui utilise des cartouches légères. Il a un magasin de 18 (sans accessoires). Il fait 14 dégâts par tir, et 28 par tir de tête. La carabine R-301 est capable de basculer entre les modes de tir simple et automatique.</string>
-    <string name="description_hemlok">Le Hemlok Burst AR est un fusil d\'assaut qui utilise les Heavy Rounds. Il a un magasin de 18 (sans accessoires). Il fait 18 dégâts par tir et 24 par tir de tête. Il est capable de basculer entre les modes de cuisson en rafale simple et en rafale triple.</string>
-    <string name="description_alternator">L\'Alternateur SMG est une arme de mitrailleuse sous-marine dans Apex Legends. Comme son nom l\'indique, il tire à travers deux fûts alternés</string>
+    <string name="description_V47_flatline">Le VK-47 Flatline est un fusil d\'assaut qui utilise Heavy Rounds. Il
+        dispose d\'un magasin de 20 (sans accessoires). Il fait 16 dégâts par tir et 32 par tir de tête. La Flatline est
+        capable de basculer entre les modes de cuisson simple et automatique.
+    </string>
+    <string name="description_R301_Carbine">La carabine R-301 est un fusil d\'assaut qui utilise des cartouches légères.
+        Il a un magasin de 18 (sans accessoires). Il fait 14 dégâts par tir, et 28 par tir de tête. La carabine R-301
+        est capable de basculer entre les modes de tir simple et automatique.
+    </string>
+    <string name="description_hemlok">Le Hemlok Burst AR est un fusil d\'assaut qui utilise les Heavy Rounds. Il a un
+        magasin de 18 (sans accessoires). Il fait 18 dégâts par tir et 24 par tir de tête. Il est capable de basculer
+        entre les modes de cuisson en rafale simple et en rafale triple.
+    </string>
+    <string name="description_alternator">L\'Alternateur SMG est une arme de mitrailleuse sous-marine dans Apex Legends.
+        Comme son nom l\'indique, il tire à travers deux fûts alternés
+    </string>
     <string name="description_R99">Le R-99 est une arme de mitrailleuse dans Apex Legends</string>
-    <string name="description_prowler">Le Prowler Burst PDW est une arme de mitrailleuse secondaire dans Apex Legends qui tire en rafale de 5 coups, à moins que vous n\'ayez l\'accessoire Selectfire Receiver Hop-Up, auquel cas il peut être activé en tir entièrement automatique.</string>
+    <string name="description_prowler">Le Prowler Burst PDW est une arme de mitrailleuse secondaire dans Apex Legends
+        qui tire en rafale de 5 coups, à moins que vous n\'ayez l\'accessoire Selectfire Receiver Hop-Up, auquel cas il
+        peut être activé en tir entièrement automatique.
+    </string>
     <string name="description_spitfire">Le Spitfire M600 est une mitrailleuse légère dans Apex Legends.</string>
-    <string name="description_devotion">La Devotion est une arme de mitrailleuse légère qui utilise des munitions à énergie et possède un mécanisme "spin-up" unique. Cela signifie que plus le canon est tiré longtemps en continu, plus la cadence de tir sera rapide. Cette arme peut être difficile à trouver des munitions en raison de cette caractéristique de consommation rapide de munitions et le fait qu\'il est l\'une des deux seules armes à énergie dans le jeu, l\'autre étant le fusil sniper Triple Take. Cette arme est appelée turbocompresseur et elle augmente la vitesse à laquelle le canon va "voler".</string>
+    <string name="description_devotion">La Devotion est une arme de mitrailleuse légère qui utilise des munitions à
+        énergie et possède un mécanisme "spin-up" unique. Cela signifie que plus le canon est tiré longtemps en continu,
+        plus la cadence de tir sera rapide. Cette arme peut être difficile à trouver des munitions en raison de cette
+        caractéristique de consommation rapide de munitions et le fait qu\'il est l\'une des deux seules armes à énergie
+        dans le jeu, l\'autre étant le fusil sniper Triple Take. Cette arme est appelée turbocompresseur et elle
+        augmente la vitesse à laquelle le canon va "voler".
+    </string>
     <string name="description_triple_take">La Triple Take est une arme de sniper dans Apex Legends.</string>
     <string name="description_longbow">The Longbow DMR is a sniper weapon in Apex Legends.</string>
     <string name="description_G7">Le DMR Longbow est une arme de sniper dans Apex Legends.</string>
-    <string name="description_kraber">Le Kraber .50 CAL est un fusil de niveau spécial 4 (légendaire) à boulon de rareté de niveau 4 (légendaire) à chargeur à boulon alimenté par un fusil de sniper que l\'on ne peut obtenir que par largage aérien (non inclus dans les largages aériens appelés par Lifeline, la capacité ultime). C\'est le sniper le plus puissant du jeu, mais aussi le plus rare, car il ne peut être obtenu que de cette façon spéciale. Il utilise son propre type de munitions qui ne prend pas d\'espace d\'inventaire, et ne peut donc pas être largué ou pillé séparément de l\'arme elle-même.</string>
-    <string name="description_peacekeeper">Le Peacekeeper est un fusil à pompe à levier qui tire 11 balles en forme d\'étoile (1 balle au milieu et 2 sur chaque ligne extérieure de l\'étoile).</string>
-    <string name="description_EVA8">L\'EVA-8 Auto est un fusil à pompe à chargeur entièrement automatique qui tire 9 plombs en forme de 8.</string>
-    <string name="description_mozambique">Le Mozambique est un pistolet à triple canon à chargeur à pince qui utilise des accessoires de fusil à pompe. Il tire 3 balles, une de chaque baril, en forme de triangle, la pastille centrale supérieure frappant l\'endroit du point rouge tout en pointant vers le bas ses viseurs de fer.</string>
-    <string name="description_mastiff">Le Mastiff Shotgun est un fusil de chasse semi-automatique à tube de rareté spéciale de niveau 4 (Légendaire) qui tire 8 plombs en forme de ligne horizontale, qui diminue en largeur tout en visant vers le bas les viseurs, réduisant l\'étalement et donc augmentant la précision. Il ne peut être obtenu que par largage aérien (non inclus dans les largages aériens invoqués par la capacité ultime de Lifeline). Il utilise son propre type de munitions qui ne prend pas d\'espace d\'inventaire, et ne peut donc pas être largué ou pillé séparément de l\'arme elle-même.</string>
-    <string name="description_RE_45">Le RE 45 Auto est un pistolet entièrement automatique à chargement par chargeur dans Apex Legends.</string>
-    <string name="description_P2020">Le P2020 est un pistolet pistolet semi-automatique à alimentation par chargeur dans Apex Legends.</string>
-    <string name="description_wingman">Le Wingman est une arme pistolet de type revolver qui a un potentiel de tir à 3 coups à la tête sur quelqu\'un avec une armure complète (ou 2 coups avec l\'accessoire Skullpiercer Rifling), ce qui en fait une arme brutale pour quelqu\'un qui peut tirer de façon fiable à la tête.</string>
-    <string name="legend_bangalore">Née dans une famille militaire où elle, ses parents et ses quatre frères aînés ont tous servi dans les forces armées du CIM, l\'agent 40138416 Bangalore a été un soldat exceptionnel depuis son jeune âge. Elle était la meilleure de sa classe à l\'Académie militaire du CIM et la seule élève-officier qui pouvait désassembler un Peacekeeper, l\'équiper d\'un hop-up Precision Choke et le remonter en moins de vingt secondes, les yeux bandés. \nIl y a trois ans, Anita et son frère Jackson ont reçu l\'ordre de récupérer une flotte de mercenaires de l\'Outland pour aider l\'IMC dans sa lutte contre la Milice. Cependant, leur unité a perdu le contact avec le QG du CGI et a été prise en embuscade à son arrivée. L\'escouade s\'est dispersée, mais Jackson est resté derrière pour donner à sa soeur le temps de s\'échapper. Seule et sans retour à la maison, Anita a mis à profit son entraînement, ses connaissances approfondies des armes et son esprit de compétition en participant aux Jeux Apex. Aujourd\'hui, elle se bat pour récolter des fonds en vue de son retour à la base d\'attache de l\'IMC, où elle espère retrouver ce qui reste de sa famille.</string>
-    <string name="legend_bloodhount">Le Bloodhound est connu dans les Outlands comme l\'un des plus grands chasseurs de gibier que la Frontière ait jamais vu - et c\'est à peu près tout ce que tout le monde sait. Leur identité est un mystère enveloppé dans des couches de rumeurs : ils sont fabuleusement riches, un meurtrier assoiffé de sang, un chuchoteur de Goliath, un ancien esclave, une demi-souris, et une douzaine d\'autres choses selon qui fait le murmure. Tout ce que tout le monde sait vraiment, c\'est que Bloodhound est une force avec laquelle il faut compter dans les Apex Games. Les compétences inégalées de Bloodhound en matière de pistage sont une aubaine pour toute équipe à laquelle il se joint, l\'aidant à déceler les adversaires cachés et à suivre les mouvements de l\'ennemi. Faisant appel aux anciens dieux nordiques de la Terre pour les guider, Bloodhound croit que le destin est un chemin qui a déjà été tracé, menant finalement tous à leur mort. Mais avec cette connaissance vient la force, parce que jusqu\'à ce jour, Bloodhound sait qu\'on ne peut pas les arrêter.</string>
-    <string name="legend_caustic">Avant qu\'il n\'y ait Caustic, un scientifique nommé Alexander Nox travaillait chez Humbert Labs, le principal fabricant de pesticides gazeux de la région pionnière. Avec une surabondance de pesticides nécessaires pour protéger les cultures des colonies pionnières en pleine croissance, Humbert Labs était constamment à la recherche de formules meilleures et plus fortes. Nox était l\'un de leurs scientifiques les plus brillants et travaillait jour et nuit au développement de nouveaux gaz. Mais pour s\'assurer de leur efficacité, il devait les tester sur plus que sur des tissus inertes : il avait besoin de quelque chose de vivant. Alors qu\'il travaillait en secret, Nox commença à voir la beauté de ses créations et leur capacité à détruire tout ce qu\'elles touchaient. Mais le chef de Humbert Labs découvrit bientôt ses terribles expériences, et leur confrontation prit fin avec le laboratoire en flammes et son chef mort. Aujourd\'hui, Nox est porté disparu et présumé décédé. Caustic, quant à lui, trouve maintenant de nouveaux sujets de test dans les Apex Games, où il met ses créations gazeuses à l\'œuvre et observe leurs effets avec grand intérêt.</string>
-    <string name="legend_gibraltar">Gibraltar est un géant doux avec un côté sauvage. Fils de deux bénévoles de SARAS (Search and Rescue Association of Solace), il a toujours su sortir les autres des situations dangereuses qui sont courantes dans les régions éloignées. Cependant, il n\'a commencé à comprendre l\'importance de protéger les autres que lorsque lui et son petit ami ont volé la moto de son père, l\'ont emmenée faire une virée en voiture et se sont fait piéger par un glissement de terrain mortel. Ses parents les ont sauvés et son père a perdu un bras. Gibraltar n\'a jamais oublié ce sacrifice et a consacré sa vie à aider ceux qui en avaient besoin. \Les Apex Games n\'ont pas changé ça, mais ils ont changé ce que ça voulait dire. De nombreux amis et collègues de Gibraltar ont participé aux Jeux pour obtenir plus d\'argent, de gloire et de gloire au fil des ans, et certains ne sont jamais rentrés chez eux. Gibraltar s\'est joint à eux pour assurer leur sécurité et, pour la première fois, ses compétences en tant que sauveteur et sa nature rebelle ont travaillé ensemble. Il est maintenant devenu une icône dans les Jeux d\'Apex, se mettant dans la ligne de mire pour protéger son équipe et envoyer ses adversaires se mettre à couvert.</string>
-    <string name="legend_lifeline">Ajay Che, alias Lifeline, n\'est pas quelqu\'un que l\'on pourrait s\'attendre à trouver dans les jeux Apex. Enfant de riches profiteurs de la guerre, elle a quitté la maison lorsqu\'elle a appris les dommages causés par sa famille et s\'est enrôlée dans le Frontier Corps, une organisation humanitaire qui vient en aide aux communautés frontalières dans le besoin. Depuis, elle a consacré sa vie à aider les autres et s\'est jointe à Apex Games pour financer le Frontier Corps avec ses gains. \nPuisque personne aux Jeux n\'est innocent - ils savent tous pour quoi ils se sont engagés - et que chacune de ses victoires signifie de l\'aide pour ceux dans le besoin, Lifeline n\'a aucun problème à s\'engager dans ce sport populaire. C\'est ce qu\'elle se dit. Elle peut sembler sarcastique et impitoyable, mais au fond d\'elle, elle veut aider les gens et faire du monde un endroit meilleur. Si cela signifie qu\'il faut faire descendre quelques personnes dans le processus, qu\'il en soit ainsi.</string>
-    <string name="legend_mirage">Mirage est le genre de gars qui aime se démarquer. Le plus jeune de quatre frères, il a perfectionné l\'art de tromper pour attirer l\'attention. La seule chose qu\'il prenait au sérieux était la technologie Holo-Pilot : initié à la technique de création d\'illusion par sa mère ingénieure, il a versé sur les mécanismes et a appris tout ce qu\'il pouvait sur eux. Même lorsque ses frères ont disparu pendant la guerre frontalière, Mirage et sa mère ont continué à développer des appareils holo, et le travail les a rapprochés. \nTout en travaillant comme barman pour joindre les deux bouts, Mirage a entendu des histoires étonnantes de ses clients sur les Jeux d\'Apex et la richesse et la gloire qui sont venus avec la victoire. Il savait qu\'il ne pouvait pas prendre le risque de laisser sa mère sans enfant - jusqu\'à ce qu\'elle lui donne un ensemble d\'appareils holo personnalisés et lui dise de réaliser son rêve. Mirage est maintenant la vie des Apex Games, devançant les adversaires et charmant public à travers les Outlands.</string>
-    <string name="legend_pathfinder">Pathfinder est l\'image de l\'optimisme, malgré ses circonstances. Un MRVN (Mobile Robotic Versatile eNtity) modifié pour se spécialiser dans le repérage et l\'arpentage, il a démarré il y a des décennies dans un laboratoire abandonné, sans savoir qui l\'a créé ni pourquoi. Avec seulement sa désignation MRVN pour faire allusion à son identité, Pathfinder est parti à la recherche de son créateur. \nPathfinder a beaucoup appris au cours de ses voyages depuis (comme comment faire un bon ragoût de Léviathan de l\'Est), mais il n\'a pas encore réussi à trouver son créateur. Pourtant, il n\'a jamais perdu espoir, et il s\'est joint à Apex Games pour obtenir une suite - et j\'espère attirer l\'attention de son créateur. En attendant, il reste enthousiaste et serviable, toujours prêt à se faire de nouveaux amis (puis à les tuer).</string>
-    <string name="legend_wraith">Wraith est un combattant tourbillonnant, capable d\'exécuter des attaques rapides et mortelles et de manipuler l\'espace-temps en ouvrant des failles dans le tissu de la réalité - mais elle n\'a aucune idée comment elle en est arrivée là. Il y a des années, elle s\'est réveillée dans un centre de détention de l\'IMC pour malades mentaux sans aucun souvenir de sa vie antérieure. Elle a également commencé à entendre une voix distante chuchoter dans son esprit qui la garderait éveillée pendant des jours et des jours. Bien qu\'elle ait failli la rendre folle, une fois qu\'elle a commencé à l\'écouter et à lui faire confiance, la voix l\'a aidée à exploiter son nouveau pouvoir de manipulation du vide et à échapper à l\'installation. \nDéterminés à découvrir sa véritable identité, les Wraith ont commencé une quête pour en savoir plus sur ces expériences. Bon nombre des anciennes installations de recherche, cependant, sont enterrées sous des arénas lourdement gardés utilisés pour les Jeux de l\'Apex. Maintenant, les Wraith ont rejoint la compétition, et à chaque match, elle se rapproche de la vérité.</string>
+    <string name="description_kraber">Le Kraber .50 CAL est un fusil de niveau spécial 4 (légendaire) à boulon de rareté
+        de niveau 4 (légendaire) à chargeur à boulon alimenté par un fusil de sniper que l\'on ne peut obtenir que par
+        largage aérien (non inclus dans les largages aériens appelés par Lifeline, la capacité ultime). C\'est le sniper
+        le plus puissant du jeu, mais aussi le plus rare, car il ne peut être obtenu que de cette façon spéciale. Il
+        utilise son propre type de munitions qui ne prend pas d\'espace d\'inventaire, et ne peut donc pas être largué
+        ou pillé séparément de l\'arme elle-même.
+    </string>
+    <string name="description_peacekeeper">Le Peacekeeper est un fusil à pompe à levier qui tire 11 balles en forme
+        d\'étoile (1 balle au milieu et 2 sur chaque ligne extérieure de l\'étoile).
+    </string>
+    <string name="description_EVA8">L\'EVA-8 Auto est un fusil à pompe à chargeur entièrement automatique qui tire 9
+        plombs en forme de 8.
+    </string>
+    <string name="description_mozambique">Le Mozambique est un pistolet à triple canon à chargeur à pince qui utilise
+        des accessoires de fusil à pompe. Il tire 3 balles, une de chaque baril, en forme de triangle, la pastille
+        centrale supérieure frappant l\'endroit du point rouge tout en pointant vers le bas ses viseurs de fer.
+    </string>
+    <string name="description_mastiff">Le Mastiff Shotgun est un fusil de chasse semi-automatique à tube de rareté
+        spéciale de niveau 4 (Légendaire) qui tire 8 plombs en forme de ligne horizontale, qui diminue en largeur tout
+        en visant vers le bas les viseurs, réduisant l\'étalement et donc augmentant la précision. Il ne peut être
+        obtenu que par largage aérien (non inclus dans les largages aériens invoqués par la capacité ultime de
+        Lifeline). Il utilise son propre type de munitions qui ne prend pas d\'espace d\'inventaire, et ne peut donc pas
+        être largué ou pillé séparément de l\'arme elle-même.
+    </string>
+    <string name="description_RE_45">Le RE 45 Auto est un pistolet entièrement automatique à chargement par chargeur
+        dans Apex Legends.
+    </string>
+    <string name="description_P2020">Le P2020 est un pistolet pistolet semi-automatique à alimentation par chargeur dans
+        Apex Legends.
+    </string>
+    <string name="description_wingman">Le Wingman est une arme pistolet de type revolver qui a un potentiel de tir à 3
+        coups à la tête sur quelqu\'un avec une armure complète (ou 2 coups avec l\'accessoire Skullpiercer Rifling), ce
+        qui en fait une arme brutale pour quelqu\'un qui peut tirer de façon fiable à la tête.
+    </string>
+    <string name="legend_bangalore">Née dans une famille militaire où elle, ses parents et ses quatre frères aînés ont
+        tous servi dans les forces armées du CIM, l\'agent 40138416 Bangalore a été un soldat exceptionnel depuis son
+        jeune âge. Elle était la meilleure de sa classe à l\'Académie militaire du CIM et la seule élève-officier qui
+        pouvait désassembler un Peacekeeper, l\'équiper d\'un hop-up Precision Choke et le remonter en moins de vingt
+        secondes, les yeux bandés. \nIl y a trois ans, Anita et son frère Jackson ont reçu l\'ordre de récupérer une
+        flotte de mercenaires de l\'Outland pour aider l\'IMC dans sa lutte contre la Milice. Cependant, leur unité a
+        perdu le contact avec le QG du CGI et a été prise en embuscade à son arrivée. L\'escouade s\'est dispersée, mais
+        Jackson est resté derrière pour donner à sa soeur le temps de s\'échapper. Seule et sans retour à la maison,
+        Anita a mis à profit son entraînement, ses connaissances approfondies des armes et son esprit de compétition en
+        participant aux Jeux Apex. Aujourd\'hui, elle se bat pour récolter des fonds en vue de son retour à la base
+        d\'attache de l\'IMC, où elle espère retrouver ce qui reste de sa famille.
+    </string>
+    <string name="legend_bloodhount">Le Bloodhound est connu dans les Outlands comme l\'un des plus grands chasseurs de
+        gibier que la Frontière ait jamais vu - et c\'est à peu près tout ce que tout le monde sait. Leur identité est
+        un mystère enveloppé dans des couches de rumeurs : ils sont fabuleusement riches, un meurtrier assoiffé de sang,
+        un chuchoteur de Goliath, un ancien esclave, une demi-souris, et une douzaine d\'autres choses selon qui fait le
+        murmure. Tout ce que tout le monde sait vraiment, c\'est que Bloodhound est une force avec laquelle il faut
+        compter dans les Apex Games. Les compétences inégalées de Bloodhound en matière de pistage sont une aubaine pour
+        toute équipe à laquelle il se joint, l\'aidant à déceler les adversaires cachés et à suivre les mouvements de
+        l\'ennemi. Faisant appel aux anciens dieux nordiques de la Terre pour les guider, Bloodhound croit que le destin
+        est un chemin qui a déjà été tracé, menant finalement tous à leur mort. Mais avec cette connaissance vient la
+        force, parce que jusqu\'à ce jour, Bloodhound sait qu\'on ne peut pas les arrêter.
+    </string>
+    <string name="legend_caustic">Avant qu\'il n\'y ait Caustic, un scientifique nommé Alexander Nox travaillait chez
+        Humbert Labs, le principal fabricant de pesticides gazeux de la région pionnière. Avec une surabondance de
+        pesticides nécessaires pour protéger les cultures des colonies pionnières en pleine croissance, Humbert Labs
+        était constamment à la recherche de formules meilleures et plus fortes. Nox était l\'un de leurs scientifiques
+        les plus brillants et travaillait jour et nuit au développement de nouveaux gaz. Mais pour s\'assurer de leur
+        efficacité, il devait les tester sur plus que sur des tissus inertes : il avait besoin de quelque chose de
+        vivant. Alors qu\'il travaillait en secret, Nox commença à voir la beauté de ses créations et leur capacité à
+        détruire tout ce qu\'elles touchaient. Mais le chef de Humbert Labs découvrit bientôt ses terribles expériences,
+        et leur confrontation prit fin avec le laboratoire en flammes et son chef mort. Aujourd\'hui, Nox est porté
+        disparu et présumé décédé. Caustic, quant à lui, trouve maintenant de nouveaux sujets de test dans les Apex
+        Games, où il met ses créations gazeuses à l\'œuvre et observe leurs effets avec grand intérêt.
+    </string>
+    <string name="legend_gibraltar">Gibraltar est un géant doux avec un côté sauvage. Fils de deux bénévoles de SARAS
+        (Search and Rescue Association of Solace), il a toujours su sortir les autres des situations dangereuses qui
+        sont courantes dans les régions éloignées. Cependant, il n\'a commencé à comprendre l\'importance de protéger
+        les autres que lorsque lui et son petit ami ont volé la moto de son père, l\'ont emmenée faire une virée en
+        voiture et se sont fait piéger par un glissement de terrain mortel. Ses parents les ont sauvés et son père a
+        perdu un bras. Gibraltar n\'a jamais oublié ce sacrifice et a consacré sa vie à aider ceux qui en avaient
+        besoin. \Les Apex Games n\'ont pas changé ça, mais ils ont changé ce que ça voulait dire. De nombreux amis et
+        collègues de Gibraltar ont participé aux Jeux pour obtenir plus d\'argent, de gloire et de gloire au fil des
+        ans, et certains ne sont jamais rentrés chez eux. Gibraltar s\'est joint à eux pour assurer leur sécurité et,
+        pour la première fois, ses compétences en tant que sauveteur et sa nature rebelle ont travaillé ensemble. Il est
+        maintenant devenu une icône dans les Jeux d\'Apex, se mettant dans la ligne de mire pour protéger son équipe et
+        envoyer ses adversaires se mettre à couvert.
+    </string>
+    <string name="legend_lifeline">Ajay Che, alias Lifeline, n\'est pas quelqu\'un que l\'on pourrait s\'attendre à
+        trouver dans les jeux Apex. Enfant de riches profiteurs de la guerre, elle a quitté la maison lorsqu\'elle a
+        appris les dommages causés par sa famille et s\'est enrôlée dans le Frontier Corps, une organisation humanitaire
+        qui vient en aide aux communautés frontalières dans le besoin. Depuis, elle a consacré sa vie à aider les autres
+        et s\'est jointe à Apex Games pour financer le Frontier Corps avec ses gains. \nPuisque personne aux Jeux n\'est
+        innocent - ils savent tous pour quoi ils se sont engagés - et que chacune de ses victoires signifie de l\'aide
+        pour ceux dans le besoin, Lifeline n\'a aucun problème à s\'engager dans ce sport populaire. C\'est ce qu\'elle
+        se dit. Elle peut sembler sarcastique et impitoyable, mais au fond d\'elle, elle veut aider les gens et faire du
+        monde un endroit meilleur. Si cela signifie qu\'il faut faire descendre quelques personnes dans le processus,
+        qu\'il en soit ainsi.
+    </string>
+    <string name="legend_mirage">Mirage est le genre de gars qui aime se démarquer. Le plus jeune de quatre frères, il a
+        perfectionné l\'art de tromper pour attirer l\'attention. La seule chose qu\'il prenait au sérieux était la
+        technologie Holo-Pilot : initié à la technique de création d\'illusion par sa mère ingénieure, il a versé sur
+        les mécanismes et a appris tout ce qu\'il pouvait sur eux. Même lorsque ses frères ont disparu pendant la guerre
+        frontalière, Mirage et sa mère ont continué à développer des appareils holo, et le travail les a rapprochés.
+        \nTout en travaillant comme barman pour joindre les deux bouts, Mirage a entendu des histoires étonnantes de ses
+        clients sur les Jeux d\'Apex et la richesse et la gloire qui sont venus avec la victoire. Il savait qu\'il ne
+        pouvait pas prendre le risque de laisser sa mère sans enfant - jusqu\'à ce qu\'elle lui donne un ensemble
+        d\'appareils holo personnalisés et lui dise de réaliser son rêve. Mirage est maintenant la vie des Apex Games,
+        devançant les adversaires et charmant public à travers les Outlands.
+    </string>
+    <string name="legend_pathfinder">Pathfinder est l\'image de l\'optimisme, malgré ses circonstances. Un MRVN (Mobile
+        Robotic Versatile eNtity) modifié pour se spécialiser dans le repérage et l\'arpentage, il a démarré il y a des
+        décennies dans un laboratoire abandonné, sans savoir qui l\'a créé ni pourquoi. Avec seulement sa désignation
+        MRVN pour faire allusion à son identité, Pathfinder est parti à la recherche de son créateur. \nPathfinder a
+        beaucoup appris au cours de ses voyages depuis (comme comment faire un bon ragoût de Léviathan de l\'Est), mais
+        il n\'a pas encore réussi à trouver son créateur. Pourtant, il n\'a jamais perdu espoir, et il s\'est joint à
+        Apex Games pour obtenir une suite - et j\'espère attirer l\'attention de son créateur. En attendant, il reste
+        enthousiaste et serviable, toujours prêt à se faire de nouveaux amis (puis à les tuer).
+    </string>
+    <string name="legend_wraith">Wraith est un combattant tourbillonnant, capable d\'exécuter des attaques rapides et
+        mortelles et de manipuler l\'espace-temps en ouvrant des failles dans le tissu de la réalité - mais elle n\'a
+        aucune idée comment elle en est arrivée là. Il y a des années, elle s\'est réveillée dans un centre de détention
+        de l\'IMC pour malades mentaux sans aucun souvenir de sa vie antérieure. Elle a également commencé à entendre
+        une voix distante chuchoter dans son esprit qui la garderait éveillée pendant des jours et des jours. Bien
+        qu\'elle ait failli la rendre folle, une fois qu\'elle a commencé à l\'écouter et à lui faire confiance, la voix
+        l\'a aidée à exploiter son nouveau pouvoir de manipulation du vide et à échapper à l\'installation. \nDéterminés
+        à découvrir sa véritable identité, les Wraith ont commencé une quête pour en savoir plus sur ces expériences.
+        Bon nombre des anciennes installations de recherche, cependant, sont enterrées sous des arénas lourdement gardés
+        utilisés pour les Jeux de l\'Apex. Maintenant, les Wraith ont rejoint la compétition, et à chaque match, elle se
+        rapproche de la vérité.
+    </string>
+    <string name="pros_amp_cons">Avantages &amp; Inconvenients</string>
 
 </resources>
