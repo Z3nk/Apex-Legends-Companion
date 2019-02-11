@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Apex Legends Guide</string>
+    <string name="app_name">Apex Legends Companion</string>
     <string name="made_by_fan" translatable="false">Made by gamers for gamers</string>
     <string name="weapons">Weapons</string>
     <string name="AR">Assault rifle</string>
@@ -357,7 +357,7 @@
     </string>
     <string name="tracker">Tracker</string>
     <string name="description_tracker">Tracks and certain other actions leave visible traces and highlights for 60
-        seconds. Other actions include:
+        seconds.
     </string>
     <string name="beast_hunt">Beast of the Hunt</string>
     <string name="description_beast_hunt">Enhances your senses, allowing you to move faster and highlighting your

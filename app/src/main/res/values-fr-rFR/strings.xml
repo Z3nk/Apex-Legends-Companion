@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Apex Legends Guide</string>
+    <string name="app_name">Apex Legends Companion</string>
     <string name="weapons">Les armes</string>
     <string name="AR">Fusil d\'assault</string>
     <string name="smg">Mitraillette</string>
@@ -169,5 +169,76 @@
         rapproche de la vérité.
     </string>
     <string name="pros_amp_cons">Avantages &amp; Inconvenients</string>
+
+    <!-- Bangalore spell -->
+    <string name="smoke_launcher">Smoke Launcher</string>
+    <string name="description_smoke_launcher">Bangalore a un maximum de deux charges pour tirer sur son lance-fumée ( Smoke Launcher ). Chaque charge lance une cartouche de fumée qui explose au moment de l\'impact en petites grenades fumigènes en grappe qui produisent un épais nuage de fumée dans un AOE. Il peut également être utilisé pour frapper un ennemi pour une petite quantité de dégâts.</string>
+    <string name="double_time">Double Time</string>
+    <string name="description_double_time">Le fait d\'être pris pour cible par des ennemis incite Bangalore à accélérer le rythme et à courir plus vite.</string>
+    <string name="rolling_thunder">Rolling Thunder</string>
+    <string name="description_rolling_thunder">Le Rolling Thunder de Bangalore est une capacité explosive AOE à grande échelle. Il a une courte remontée mécanique et c\'est une explosion progressive qui prend une bonne durée avant qu\'elle ne se termine. De petits missiles tombent et jonchent la zone avant d\'exploser.</string>
+
+
+    <!-- Bloodhound spell -->
+    <string name="eye_allfather">Eye of the Allfather</string>
+    <string name="description_eye_allfather">Révéler brièvement les ennemis cachés, les pièges et les indices à travers les structures devant vous.</string>
+    <string name="tracker">Tracker</string>
+    <string name="description_tracker">Les pistes et certaines autres actions laissent des traces et des surlignages visibles pendant 60 secondes.</string>
+    <string name="beast_hunt">Beast of the Hunt</string>
+    <string name="description_beast_hunt">Améliore vos sens, vous permettant d\'aller plus vite et de mettre en valeur vos proies.</string>
+
+
+    <!-- Caustic spell -->
+    <string name="gas_trap">Nox Gas Trap</string>
+    <string name="description_gas_trap">Des bidons de largage qui libèrent un gaz nocif mortel lorsqu\'ils sont tirés ou déclenchés par des ennemis. Vous pouvez maintenir jusqu\'à trois charges de cette capacité, et gagner une charge toutes les 20 secondes.  Jusqu\'à six pièges peuvent être actifs sur la carte à la fois.</string>
+    <string name="nox_vision">Nox Vision</string>
+    <string name="description_nox_vision">Vous permet de voir les ennemis à travers votre gaz. Les ennemis sont surlignés en vert, un peu comme avec le Threat Scope.</string>
+    <string name="nox_gas_grenade">Nox Gas Grenade</string>
+    <string name="description_nox_gas_grenade">Couvre une grande surface avec du gaz Nox. Il inflige 1 dégât par seconde passé dans le gaz.</string>
+
+
+    <!-- Gibraltar spell -->
+    <string name="dome_protection">Dome of Protection</string>
+    <string name="description_dome_protection">Lancez un bouclier en forme de dôme qui bloque les attaques pendant 15 secondes.</string>
+    <string name="gun_shield">Gun Shield</string>
+    <string name="description_gun_shield">En visant, Gibraltar aura un bouclier énergétique devant lui avec une santé qui le protège des tirs entrants tout en lui permettant de tirer. Le bouclier peut être désactivé en appuyant sur H pendant la visée.</string>
+    <string name="defensive_bombardment">Defensive Bombardment</string>
+    <string name="description_defensive_bombardment">Effectuer un tir de mortier concentré sur une position marquée.</string>
+
+
+    <!-- Lifeline spell -->
+    <string name="heal_drone">D.O.C. Heal Drone</string>
+    <string name="description_heal_drone">Place un petit drone qui plane à environ un pied du sol et guérit les alliés à proximité. Un petit tube s\'étend jusqu\'à l\'allié pour indiquer qu\'il est en train d\'être guéri.</string>
+    <string name="combat_medic">Combat Medic</string>
+    <string name="description_combat_medic">La capacité passive de Lifeline lui permet de ranimer ses coéquipiers en toute sécurité derrière la couverture générée par son drone D.O.C.. Il ne s\'agit pas d\'une bulle à 360°, il ne peut donc protéger que dans une direction. Le bouclier ne se brisera jamais, cependant, il descendra à la seconde où vous pourrez bouger à nouveau, donc assurez-vous d\'être pret d\'un habrits lorsque vous commencerez à revivre. Lifeline peut aussi se guérir rapidement 25 % plus rapidement, ce qui lui permet de reprendre rapidement le combat.</string>
+    <string name="care_package">Care Package</string>
+    <string name="description_care_package">Lorsqu\'on l\'invoque, il peut contenir jusqu\'à trois objets, il a une chance de lâcher une armure de niveau 3 ou 2, des casques et des boucliers, des cellules de bouclier (grandes et petites), des kits de bandages, des kits de phénix et des accessoires d\'armes qui peuvent parfois être de qualité légendaire.</string>
+
+
+    <!-- Mirage spell -->
+    <string name="psyche_out">Psyche Out</string>
+    <string name="description_psyche_out">Envoyez un leurre holographique pour embrouiller l\'ennemi</string>
+    <string name="encore">Encore!</string>
+    <string name="description_encore">Lâchez automatiquement un leurre et devenez invisible pendant cinq secondes lorsque vous êtes KO.</string>
+    <string name="vanishing_act">Vanishing Act</string>
+    <string name="description_vanishing_act">Déployez une équipe de leurres pour distraire vos ennemis pendant que vous vous cachez. Une fois que l\'acte de disparition est activé, vous êtes en furtivité pendant environ 2~3 secondes.</string>
+
+
+    <!-- Pathfinder spell -->
+    <string name="grappling_hook">Grappling Hook</string>
+    <string name="description_grappling_hook">Lance un grappin qui s\'attache au premier objet solide qu\'il frappe et vous tire vers lui à une vitesse rapide. Le grappin peut également s\'attacher aux joueurs, vous tirant tous les deux ensemble.</string>
+    <string name="insider_knowledge">Insider Knowledge</string>
+    <string name="description_insider_knowledge">Scannez une balise de repérage pour révéler la prochaine position du prochain cercle.</string>
+    <string name="zipline_gun">Zipline Gun</string>
+    <string name="description_zipline_gun">Crée une tyrolienne entre votre position actuelle et une position cible, que vous, vos coéquipiers et vos ennemis pouvez utiliser pour vous déplacer rapidement entre les deux points.</string>
+
+
+    <!-- Wraith spell -->
+    <string name="into_void">Into the Void</string>
+    <string name="description_into_void">Lors de l\'activation, vous entrez le vide. Alors que dans le vide, tout vous semble gris, vous êtes invulnérable, et votre apparence extérieure est obscurcie, ce qui vous rend difficile à suivre. De plus, vous ne pouvez pas voir d\'autres joueurs pour la durée du jeu. Vous suivez toujours les règles normales de mouvement, comme grimper des obstacles et courir, et les portes vous bloqueront toujours si vous les fermez (bien que vous puissiez les ouvrir). Vous laisserez une faible trace qui pourra être utilisée par les ennemis pour vous suivre.</string>
+    <string name="voice_void">Voices from the Void</string>
+    <string name="description_voice_void">Vous entendez une voix spectrale qui vous avertit de manière audible si quelqu\'un vous regarde ou vous vise. Les particularités de ce que l\'on entend par vous regarder ne sont pas connues pour l\'instant, pas plus que la fréquence à laquelle il s\'activera. Lorsque vous entendez la voix, vous pouvez appuyer sur H pour partager l\'information avec vos coéquipiers.</string>
+    <string name="dimensional_rift">Dimensional Rift</string>
+    <string name="description_dimensional_rift">Reliez deux emplacements avec des portails pendant 60 secondes, ce qui permet à n\'importe qui de les utiliser.</string>
 
 </resources>
